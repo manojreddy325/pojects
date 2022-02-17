@@ -1,19 +1,11 @@
 # Creating A MoviesList with React
 
-step-1: if a user search about the movie it is showing the exact movie.
+step-1: The user is watching the main page while entering the page.
 
-step-2: if a user want to add a movie it will added to the previous list with the movie name , director name,releasing date
+step-2: This page is contains a list of movies 
 
-step-3: those added movies list will shown the results area.
+step-3: if a user want to delete the movie just click the below delete button . the movie will be deleted from the interface.
 
-# problems that i have faced
+step-4: if a user want to add a movie type a value in search input then click the add movie button the movie will added to the list.
 
-1. while fetching the url this website is asking a API key that is i didn't find from website thats'why feteching not done properly.
-
-2. if the data is available the result will came nearby for this application.
-
-3. As much I can do i was built the application
-
-4. In my institution they didn't explain about hooks and how to connect the database to the react.
-
-Thanks For giving me the oppurtunity .
+step-5: if a user want to sorted by the title or relesed date just click on the drop down button select whatever user option just select the option it will displayed as the value.
